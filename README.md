@@ -30,9 +30,10 @@ The test data is similar to the training data, except for the absence of the is_
 
 
 The tools used along with their features are:
-**Pandas**	Used for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series and for storing the data in the form of dataframes.
-**Scikit-learn**	Framework for machine learning algorithms and data manipulation
-**Lightgbm**	LightGradientBoosting is a gradient boosting framework that uses tree based learning algorithm, where leaves in the tree as grown vertically instead of horizontally. This framework is used for prediction of the target variable.
+**Pandas**	Used for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series and for storing the data in the form of dataframes.
+**Scikit-learn**	Framework for machine learning algorithms and data manipulation
+**Lightgbm**	LightGradientBoosting is a gradient boosting framework that uses tree based learning algorithm, where leaves in the tree as grown vertically instead of horizontally. This framework is used for prediction of the target variable.
 **Networkx**	NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. The social network graph is created from the nodes using NetworkX.
+
 **Matplotlib**	For plotting visualizations in the form of graphs.
 
