@@ -30,6 +30,7 @@ The test data is similar to the training data, except for the absence of the is_
 
 
 The tools used along with their features are:
+
 **Pandas**	Used for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series and for storing the data in the form of dataframes.
 
 **Scikit-learn**	Framework for machine learning algorithms and data manipulation
