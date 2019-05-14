@@ -1,5 +1,5 @@
 # Link-Prediction-in-Social-Network
-Given a snapshot of a social network,  we infer which new interactions among its members are likely to occur in the near future.
+Given a snapshot of a social network,  we infer which new interactions among its members are likely to occur in the near future?
 
 As a part of  the Hike Social Network Prediction Hackathon: Hikeathon, we were given a set 3 datasets:
 
